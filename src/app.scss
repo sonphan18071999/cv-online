@@ -1,0 +1,10 @@
+.app{
+ display: block;
+ width: 100%;
+}
+
+.body__container{
+ display: grid;
+ grid-template-columns: 15% 85%;
+ margin-top: 5rem;
+}
